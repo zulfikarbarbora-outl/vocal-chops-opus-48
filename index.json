@@ -1,0 +1,143 @@
+{
+  "library": "vocal-chops",
+  "displayName": "Vocal Chops & Phrases",
+  "description": "Short sung notes and vocal phrases (ahh, mmm, hmm, sustained pitches) suitable for sequencing into vocal chops. Sourced from Freesound packs 39031 (Repeal sung notes, CC-BY) + 29765 (hugo_nl janie_joelle vocals, CC-BY).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/Repeal/packs/39031/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/vocal-chops-opus-48",
+  "branch": "main",
+  "fileCount": 10,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/",
+  "files": [
+    {
+      "file": "vocal_ahh_ah2.opus",
+      "name": "vocal_ahh_ah2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_ahh_ah2.opus",
+      "size": 3510,
+      "freesoundId": 529162,
+      "duration": 0.5,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "hugo_nl janie_joelle"
+    },
+    {
+      "file": "vocal_ahh_ah3.opus",
+      "name": "vocal_ahh_ah3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_ahh_ah3.opus",
+      "size": 4010,
+      "freesoundId": 529161,
+      "duration": 0.6,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "hugo_nl janie_joelle"
+    },
+    {
+      "file": "vocal_ahh_ah1.opus",
+      "name": "vocal_ahh_ah1",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_ahh_ah1.opus",
+      "size": 3934,
+      "freesoundId": 529163,
+      "duration": 0.6,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "hugo_nl janie_joelle"
+    },
+    {
+      "file": "vocal_hmm_1.opus",
+      "name": "vocal_hmm_1",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_hmm_1.opus",
+      "size": 7250,
+      "freesoundId": 529178,
+      "duration": 1.1,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "hugo_nl janie_joelle"
+    },
+    {
+      "file": "vocal_mmm_1.opus",
+      "name": "vocal_mmm_1",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_mmm_1.opus",
+      "size": 10254,
+      "freesoundId": 529176,
+      "duration": 1.5,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "hugo_nl janie_joelle"
+    },
+    {
+      "file": "vocal_note_C_21.opus",
+      "name": "vocal_note_C_21",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_note_C_21.opus",
+      "size": 10405,
+      "freesoundId": 698957,
+      "duration": 1.3,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "Repeal sung notes"
+    },
+    {
+      "file": "vocal_note_A_0.opus",
+      "name": "vocal_note_A_0",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_note_A_0.opus",
+      "size": 14018,
+      "freesoundId": 698944,
+      "duration": 1.6,
+      "rootNote": 69,
+      "license": "CC-BY-4.0",
+      "source": "Repeal sung notes"
+    },
+    {
+      "file": "vocal_note_C5_16.opus",
+      "name": "vocal_note_C5_16",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_note_C5_16.opus",
+      "size": 11536,
+      "freesoundId": 698952,
+      "duration": 1.4,
+      "rootNote": 72,
+      "license": "CC-BY-4.0",
+      "source": "Repeal sung notes"
+    },
+    {
+      "file": "vocal_note_F_18.opus",
+      "name": "vocal_note_F_18",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_note_F_18.opus",
+      "size": 17997,
+      "freesoundId": 698954,
+      "duration": 2.2,
+      "rootNote": 65,
+      "license": "CC-BY-4.0",
+      "source": "Repeal sung notes"
+    },
+    {
+      "file": "vocal_note_A_22.opus",
+      "name": "vocal_note_A_22",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/vocal-chops-opus-48/main/vocal_note_A_22.opus",
+      "size": 12374,
+      "freesoundId": 698958,
+      "duration": 1.5,
+      "rootNote": 69,
+      "license": "CC-BY-4.0",
+      "source": "Repeal sung notes"
+    }
+  ],
+  "byNote": {
+    "60": [
+      "vocal_ahh_ah2.opus",
+      "vocal_ahh_ah3.opus",
+      "vocal_ahh_ah1.opus",
+      "vocal_hmm_1.opus",
+      "vocal_mmm_1.opus",
+      "vocal_note_C_21.opus"
+    ],
+    "65": [
+      "vocal_note_F_18.opus"
+    ],
+    "69": [
+      "vocal_note_A_0.opus",
+      "vocal_note_A_22.opus"
+    ],
+    "72": [
+      "vocal_note_C5_16.opus"
+    ]
+  }
+}
